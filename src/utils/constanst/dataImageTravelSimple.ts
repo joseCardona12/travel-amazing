@@ -42,5 +42,7 @@ export const DATA_IMAGE_CARD: IImageCard[] = [
 
 export const IMAGES_PUBLIC_PEXELS = {
   image_stress:
-    "https://images.pexels.com/photos/12720682/pexels-photo-12720682.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "https://images.pexels.com/photos/7875571/pexels-photo-7875571.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  image_tomorrow:
+    "http://images.pexels.com/photos/9494044/pexels-photo-9494044.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
 };

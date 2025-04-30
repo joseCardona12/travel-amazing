@@ -32,7 +32,8 @@ export default function TravelMade() {
         </div>
       </div>
       <div
-        className={`bg-[url('${IMAGES_PUBLIC_PEXELS.image_stress}')] md:w-[50vw] p-2 rounded-[var(--border-radius-min)] h-[500px] bg-cover bg-center flex items-end`}
+        style={{ backgroundImage: `url(${IMAGES_PUBLIC_PEXELS.image_stress}` }}
+        className={` md:w-[50vw] p-2 rounded-[var(--border-radius-min)] h-[500px] bg-cover bg-center flex items-end`}
       >
         <CardStress />
       </div>
